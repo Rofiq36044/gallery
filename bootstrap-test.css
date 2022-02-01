@@ -1,0 +1,15 @@
+.gallery{
+    background: pink;
+    padding: 40px 10px;
+}
+img{
+    width: 100%;
+    border-radius: 8px;
+}
+.gallery img{
+    background: #fff;
+    padding: 5px 5px;
+}
+#gallery-modal .modal-img{
+    width: 100%;
+}
